@@ -6,7 +6,7 @@
          1. Create a new repository named 'diadia0000'.
          2. Upload your image to that repository.
          3. Replace the src below with the link to your image. -->
-    <img src="https://raw.githubusercontent.com/diadia0000/diadia0000/main/profile-image.png" alt="Profile Picture" width="200"/>
+    <img src="https://github.com/diadia0000/diadia0000/blob/main/daidai-dark.png" alt="Profile Picture" width="200"/>
   </a>
 </p>
 
