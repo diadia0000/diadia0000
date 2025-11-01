@@ -2,15 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/diadia0000">
-    <!-- To add your image: 
-         1. Create a new repository named 'diadia0000'.
-         2. Upload your image to that repository.
-         3. Replace the src below with the link to your image. -->
     <img src="https://github.com/diadia0000/diadia0000/blob/main/daidai-dark.png" alt="Profile Picture" width="200"/>
   </a>
 </p>
 
-I'm a research student at the **National Taiwan Taitung University**, exploring the fascinating intersection of large-scale imaging and cybersecurity. My goal is to leverage technology to solve complex problems and continuously expand my skills in system administration and security.
+I'm a research student at **National Taitung University** , exploring whole-slide image processing, machine learning,LLM,and cybersecurity.
+My goal is to leverage technology to solve complex problems and continuously expand my skills in system administration and security.
 
 ---
 
