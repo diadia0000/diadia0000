@@ -13,7 +13,7 @@ My goal is to leverage technology to solve complex problems and continuously exp
 
 ### 🔬 About Me
 
--   🎓 I'm currently studying at **National Taiwan Taitung University**.
+-   🎓 I'm currently studying at **National Taitung University**.
 -   🧪 I am a research student at the **Information and Cyber Security Laboratory**.
 -   🔭 My research focuses on **Gigapixel Whole Slide Image Alignment and Analysis**.
 -   🛡️ I am passionate about learning Cyber Security through platforms like **Hack The Box**, **CTF competitions**, and **pwncollege**.
