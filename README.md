@@ -56,3 +56,15 @@ Feel free to connect with me on social media!
 </a>
 
 ---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diadia0000&show_icons=true&theme=radical&count_private=true" alt="Andrew's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diadia0000&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=diadia0000&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
