@@ -54,7 +54,4 @@ Feel free to connect with me on social media!
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Discord-daidragon0000-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=diadia0000&style=flat-square&color=blue" alt="Profile Views" />
-</div>
 
