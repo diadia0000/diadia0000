@@ -55,7 +55,6 @@ Feel free to connect with me on social media!
   <img src="https://img.shields.io/badge/Discord-daidragon0000-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diadia0000&show_icons=true&theme=radical&count_private=true" alt="Andrew's GitHub Stats" />
   <img src="https://komarev.com/ghpvc/?username=diadia0000&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
