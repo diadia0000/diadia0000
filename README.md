@@ -6,7 +6,7 @@
   </a>
 </p>
 
-I'm a research student at **National Taitung University** , exploring whole-slide image processing, machine learning,LLM,and cybersecurity.
+I'm a research student at **National Taitung University** , exploring image processing, machine learning,LLM,and cybersecurity.
 My goal is to leverage technology to solve complex problems and continuously expand my skills in system administration and security.
 
 ---
