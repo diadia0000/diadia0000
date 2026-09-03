@@ -40,7 +40,6 @@ Here are some of the technologies I work with:
 ### 🏅 Certifications
 
 -   **Red Hat Certified System Administrator (RHCSA)**
--   **Red Hat Certified Engineer (RHCE)**
 
 ---
 
